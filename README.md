@@ -3,6 +3,8 @@ Statsd Middleware for Go-Json-Rest
 
 *Currently not used in production, API subject to change*
 
+[![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/ant0ine/go-json-rest-middleware-statsd) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/ant0ine/go-json-rest-middleware-statsd/master/LICENSE)
+
 This is a middleware for [Go-Json-Rest](https://github.com/ant0ine/go-json-rest).
 It uses [g2s](https://github.com/peterbourgon/g2s) to send statistics about the current request/response to a statsd server.
 It depends on `rest.TimerMiddleware` and `rest.RecorderMiddleware` that should be in the wrapped middlewares.
