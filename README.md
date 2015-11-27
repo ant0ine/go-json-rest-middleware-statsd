@@ -15,7 +15,7 @@ The two metrics are in the form:
 
 Copyright (c) 2015 Antoine Imbert
 
-[MIT License](https://github.com/ant0ine/go-json-rest-examples/blob/master/LICENSE)
+[MIT License](https://github.com/ant0ine/go-json-rest-middleware-statsd/blob/master/LICENSE)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-309210-4/go-json-rest-middleware-statsd/master/readme)](https://github.com/igrigorik/ga-beacon)
 
