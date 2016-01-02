@@ -13,7 +13,7 @@ The two metrics are in the form:
 * `[<Prefix>.]response.status_code.<StatusCode>`: Counter.
 * `[<Prefix>.]response.elasped_time`: Timer.
 
-Copyright (c) 2015 Antoine Imbert
+Copyright (c) 2015-2016 Antoine Imbert
 
 [MIT License](https://github.com/ant0ine/go-json-rest-middleware-statsd/blob/master/LICENSE)
 
